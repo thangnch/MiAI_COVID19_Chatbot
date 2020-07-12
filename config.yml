@@ -2,7 +2,7 @@
 # https://rasa.com/docs/rasa/nlu/components/
 language: vi
 pipeline:
-  - name: VietnameseTokenizer
+  - name: WhitespaceTokenizer
   - name: RegexFeaturizer
   - name: LexicalSyntacticFeaturizer
   - name: CountVectorsFeaturizer
