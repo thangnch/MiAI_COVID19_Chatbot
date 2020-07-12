@@ -1,0 +1,2158 @@
+<table class="table table-striped table-covid19" id="sailorTable">
+<thead>
+<tr>
+<th>Bệnh nhân</th>
+<th>Tuổi</th>
+<th>Giới tính</th>
+<th>Địa điểm</th>
+<th>Tình trạng</th>
+<th>Quốc tịch</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>BN268</td>
+<td>16</td>
+<td>Nữ</td>
+<td>Hà Giang</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN267</td>
+<td>46</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN266</td>
+<td>36</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN265</td>
+<td>26</td>
+<td>Nam</td>
+<td>Hà Tĩnh</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN264</td>
+<td>24</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN263</td>
+<td>45</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN262</td>
+<td>26</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN261</td>
+<td>60</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN260</td>
+<td>35</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN259</td>
+<td>41</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN258</td>
+<td>47</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN257</td>
+<td>15</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN256</td>
+<td>52</td>
+<td>Nam</td>
+<td>Vĩnh Phúc</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN255</td>
+<td>29</td>
+<td>Nam</td>
+<td>Vĩnh Phúc</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN254</td>
+<td>51</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN253</td>
+<td>41</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN252</td>
+<td>6</td>
+<td>Nam</td>
+<td>Tây Ninh</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN251</td>
+<td>64</td>
+<td>Nam</td>
+<td>Hà Nam</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN250</td>
+<td>50</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN249</td>
+<td>55</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN248</td>
+<td>20</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN247</td>
+<td>28</td>
+<td>Nam</td>
+<td>Đồng Nai</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN246</td>
+<td>33</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN245</td>
+<td>21</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN244</td>
+<td>44</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN243</td>
+<td>47</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN242</td>
+<td>34</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN241</td>
+<td>20</td>
+<td>Nam</td>
+<td>Bạc Liêu</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN240</td>
+<td>29</td>
+<td>Nữ</td>
+<td>Ninh Bình</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN239</td>
+<td>71</td>
+<td>Nam</td>
+<td>Vĩnh Phúc</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN238</td>
+<td>17</td>
+<td>Nữ</td>
+<td>Hà Tĩnh</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN237</td>
+<td>64</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Thụy Điển</td>
+</tr>
+<tr>
+<td>BN236</td>
+<td>26</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Đang điều trị</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN235</td>
+<td>25</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN234</td>
+<td>69</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN233</td>
+<td>24</td>
+<td>Nữ</td>
+<td>Vĩnh Phúc</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN232</td>
+<td>67</td>
+<td>Nam</td>
+<td>Vĩnh Phúc</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN231</td>
+<td>57</td>
+<td>Nữ</td>
+<td>Hà Nam</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN230</td>
+<td>28</td>
+<td>Nữ</td>
+<td>Ninh Bình</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN229</td>
+<td>30</td>
+<td>Nữ</td>
+<td>Ninh Bình</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN228</td>
+<td>29</td>
+<td>Nam</td>
+<td>Ninh Bình</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN227</td>
+<td>32</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN226</td>
+<td>22</td>
+<td>Nam</td>
+<td>Vĩnh Phúc</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN225</td>
+<td>35</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN224</td>
+<td>39</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Đang điều trị</td>
+<td>Bra-xin</td>
+</tr>
+<tr>
+<td>BN223</td>
+<td>29</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN222</td>
+<td>22</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN221</td>
+<td>24</td>
+<td>Nữ</td>
+<td>Vĩnh Phúc</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN220</td>
+<td>20</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN219</td>
+<td>59</td>
+<td>Nữ</td>
+<td>Hưng Yên</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN218</td>
+<td>43</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN217</td>
+<td>25</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN216</td>
+<td>48</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN215</td>
+<td>31</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN214</td>
+<td>45</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN213</td>
+<td>40</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN212</td>
+<td>35</td>
+<td>Nữ</td>
+<td>Vĩnh Phúc</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN211</td>
+<td>23</td>
+<td>Nữ</td>
+<td>Ninh Bình</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN210</td>
+<td>26</td>
+<td>Nữ</td>
+<td>Hà Tĩnh</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN209</td>
+<td>55</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN208</td>
+<td>38</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN207</td>
+<td>49</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Đang điều trị</td>
+<td>Bra-xin</td>
+</tr>
+<tr>
+<td>BN206</td>
+<td>48</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN205</td>
+<td>41</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN204</td>
+<td>10</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN203</td>
+<td>35</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN202</td>
+<td>57</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN201</td>
+<td>23</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN200</td>
+<td>61</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN199</td>
+<td>57</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN198</td>
+<td>53</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN197</td>
+<td>41</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN196</td>
+<td>34</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN195</td>
+<td>41</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN194</td>
+<td>42</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN193</td>
+<td>23</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN192</td>
+<td>21</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN191</td>
+<td>36</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN190</td>
+<td>49</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN189</td>
+<td>46</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN188</td>
+<td>44</td>
+<td>Nữ</td>
+<td>Hà Nam</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN187</td>
+<td>30</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Hoa Kỳ</td>
+</tr>
+<tr>
+<td>BN186</td>
+<td>52</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Pháp</td>
+</tr>
+<tr>
+<td>BN185</td>
+<td>38</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN184</td>
+<td>42</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN183</td>
+<td>43</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN182</td>
+<td>189</td>
+<td>Nữ</td>
+<td>Ninh Bình</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN181</td>
+<td>33</td>
+<td>Nam</td>
+<td>Ninh Bình</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN180</td>
+<td>27</td>
+<td>Nữ</td>
+<td>Ninh Bình</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN179</td>
+<td>62</td>
+<td>Nam</td>
+<td>Thanh Hóa</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN178</td>
+<td>44</td>
+<td>Nữ</td>
+<td>Thái Nguyên</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN177</td>
+<td>49</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN176</td>
+<td>38</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN175</td>
+<td>57</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN174</td>
+<td>0</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN173</td>
+<td>0</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN172</td>
+<td>0</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN171</td>
+<td>19</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN170</td>
+<td>27</td>
+<td>Nam</td>
+<td>Ninh Bình</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN169</td>
+<td>0</td>
+<td>Nữ</td>
+<td>Hà Nam</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN168</td>
+<td>0</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN167</td>
+<td>20</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Đan Mạch</td>
+</tr>
+<tr>
+<td>BN166</td>
+<td>25</td>
+<td>Nữ</td>
+<td>Ninh Bình</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN165</td>
+<td>58</td>
+<td>Nam</td>
+<td>Ninh Bình</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN164</td>
+<td>23</td>
+<td>Nam</td>
+<td>Ninh Bình</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN163</td>
+<td>43</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN162</td>
+<td>63</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN161</td>
+<td>88</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN160</td>
+<td>30</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN159</td>
+<td>33</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Bra-xin</td>
+</tr>
+<tr>
+<td>BN158</td>
+<td>45</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Bra-xin</td>
+</tr>
+<tr>
+<td>BN157</td>
+<td>31</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN156</td>
+<td>21</td>
+<td>Nam</td>
+<td>Bạc Liêu</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN155</td>
+<td>21</td>
+<td>Nữ</td>
+<td>Bạc Liêu</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN154</td>
+<td>23</td>
+<td>Nữ</td>
+<td>Cần Thơ</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN153</td>
+<td>60</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN152</td>
+<td>27</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN151</td>
+<td>45</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Đang điều trị</td>
+<td>Bra-xin</td>
+</tr>
+<tr>
+<td>BN150</td>
+<td>55</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN149</td>
+<td>40</td>
+<td>Nam</td>
+<td>Quảng Ninh</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN148</td>
+<td>58</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Pháp</td>
+</tr>
+<tr>
+<td>BN147</td>
+<td>19</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN146</td>
+<td>17</td>
+<td>Nữ</td>
+<td>Hà Tĩnh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN145</td>
+<td>34</td>
+<td>Nam</td>
+<td>Cần Thơ</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN144</td>
+<td>22</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN143</td>
+<td>58</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Cộng hòa Nam Phi</td>
+</tr>
+<tr>
+<td>BN142</td>
+<td>26</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN141</td>
+<td>29</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN140</td>
+<td>21</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN139</td>
+<td>24</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN138</td>
+<td>23</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN137</td>
+<td>36</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN136</td>
+<td>23</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN135</td>
+<td>27</td>
+<td>Nữ</td>
+<td>Đà Nẵng</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN134</td>
+<td>10</td>
+<td>Nam</td>
+<td>Thanh Hóa</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN133</td>
+<td>66</td>
+<td>Nữ</td>
+<td>Lai Châu</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN132</td>
+<td>25</td>
+<td>Nữ</td>
+<td>Bắc Giang</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN131</td>
+<td>23</td>
+<td>Nam</td>
+<td>Bắc Giang</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN130</td>
+<td>30</td>
+<td>Nam</td>
+<td>Bắc Giang</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN129</td>
+<td>20</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN128</td>
+<td>20</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN127</td>
+<td>23</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN126</td>
+<td>28</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Cộng hòa Nam Phi</td>
+</tr>
+<tr>
+<td>BN125</td>
+<td>22</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Cộng hòa Nam Phi</td>
+</tr>
+<tr>
+<td>BN124</td>
+<td>52</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Bra-xin</td>
+</tr>
+<tr>
+<td>BN123</td>
+<td>17</td>
+<td>Nữ</td>
+<td>Bến Tre</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN122</td>
+<td>24</td>
+<td>Nữ</td>
+<td>Đà Nẵng</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN121</td>
+<td>58</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN120</td>
+<td>27</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Canada</td>
+</tr>
+<tr>
+<td>BN119</td>
+<td>29</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Hoa Kỳ</td>
+</tr>
+<tr>
+<td>BN118</td>
+<td>23</td>
+<td>Nữ</td>
+<td>Tây Ninh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN117</td>
+<td>30</td>
+<td>Nam</td>
+<td>Tây Ninh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN116</td>
+<td>29</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN115</td>
+<td>44</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN114</td>
+<td>19</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN113</td>
+<td>18</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN112</td>
+<td>30</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN111</td>
+<td>25</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN110</td>
+<td>19</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN109</td>
+<td>42</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN108</td>
+<td>19</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN107</td>
+<td>25</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN106</td>
+<td>20</td>
+<td>Nữ</td>
+<td>Trà Vinh</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN105</td>
+<td>35</td>
+<td>Nữ</td>
+<td>Trà Vinh</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN104</td>
+<td>33</td>
+<td>Nữ</td>
+<td>Đồng Tháp</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN103</td>
+<td>22</td>
+<td>Nam</td>
+<td>Đồng Tháp</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN102</td>
+<td>9</td>
+<td>Nữ</td>
+<td>Đồng Tháp</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN101</td>
+<td>26</td>
+<td>Nữ</td>
+<td>Đồng Tháp</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN100</td>
+<td>55</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN99</td>
+<td>29</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN98</td>
+<td>34</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN97</td>
+<td>34</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Đang điều trị</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN96</td>
+<td>21</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN95</td>
+<td>20</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN94</td>
+<td>64</td>
+<td>Nữ</td>
+<td>Bắc Giang</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN93</td>
+<td>20</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN92</td>
+<td>21</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN91</td>
+<td>43</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Đang điều trị</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN90</td>
+<td>21</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN89</td>
+<td>22</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN88</td>
+<td>25</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN87</td>
+<td>34</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN86</td>
+<td>54</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN85</td>
+<td>20</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN84</td>
+<td>21</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN83</td>
+<td>50</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Hoa Kỳ</td>
+</tr>
+<tr>
+<td>BN82</td>
+<td>16</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN81</td>
+<td>20</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN80</td>
+<td>18</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN79</td>
+<td>48</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN78</td>
+<td>22</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN77</td>
+<td>25</td>
+<td>Nữ</td>
+<td>Bắc Ninh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN76</td>
+<td>52</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Pháp</td>
+</tr>
+<tr>
+<td>BN75</td>
+<td>40</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN74</td>
+<td>23</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN73</td>
+<td>11</td>
+<td>Nam</td>
+<td>Hải Dương</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN72</td>
+<td>25</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Pháp</td>
+</tr>
+<tr>
+<td>BN71</td>
+<td>19</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN70</td>
+<td>19</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN69</td>
+<td>30</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Đức</td>
+</tr>
+<tr>
+<td>BN68</td>
+<td>41</td>
+<td>Nam</td>
+<td>Đà Nẵng</td>
+<td>Khỏi</td>
+<td>Hoa Kỳ</td>
+</tr>
+<tr>
+<td>BN67</td>
+<td>36</td>
+<td>Nam</td>
+<td>Ninh Thuận</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN66</td>
+<td>21</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN65</td>
+<td>28</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN64</td>
+<td>36</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN63</td>
+<td>20</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN62</td>
+<td>18</td>
+<td>Nam</td>
+<td>Quảng Ninh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN61</td>
+<td>42</td>
+<td>Nam</td>
+<td>Ninh Thuận</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN60</td>
+<td>29</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Pháp</td>
+</tr>
+<tr>
+<td>BN59</td>
+<td>26</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN58</td>
+<td>26</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN57</td>
+<td>66</td>
+<td>Nam</td>
+<td>Quảng Nam</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN56</td>
+<td>30</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN55</td>
+<td>35</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Đức</td>
+</tr>
+<tr>
+<td>BN54</td>
+<td>33</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Lát-vi-a</td>
+</tr>
+<tr>
+<td>BN53</td>
+<td>53</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Cộng hòa Séc</td>
+</tr>
+<tr>
+<td>BN50</td>
+<td>24</td>
+<td>Nữ</td>
+<td>Quảng Ninh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN51</td>
+<td>22</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN52</td>
+<td>50</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN49</td>
+<td>71</td>
+<td>Nam</td>
+<td>Thừa Thiên Huế</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN48</td>
+<td>31</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN47</td>
+<td>43</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN46</td>
+<td>30</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN45</td>
+<td>25</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN44</td>
+<td>13</td>
+<td>Nam</td>
+<td>Bình Thuận</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN43</td>
+<td>47</td>
+<td>Nữ</td>
+<td>Bình Thuận</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN42</td>
+<td>28</td>
+<td>Nam</td>
+<td>Bình Thuận</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN41</td>
+<td>59</td>
+<td>Nam</td>
+<td>Bình Thuận</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN40</td>
+<td>2</td>
+<td>Nữ</td>
+<td>Bình Thuận</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN39</td>
+<td>25</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN38</td>
+<td>28</td>
+<td>Nữ</td>
+<td>Bình Thuận</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN37</td>
+<td>37</td>
+<td>Nữ</td>
+<td>Bình Thuận</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN36</td>
+<td>64</td>
+<td>Nữ</td>
+<td>Bình Thuận</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN35</td>
+<td>29</td>
+<td>Nữ</td>
+<td>Đà Nẵng</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN34</td>
+<td>51</td>
+<td>Nữ</td>
+<td>Bình Thuận</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN33</td>
+<td>58</td>
+<td>Nam</td>
+<td>Quảng Nam</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN32</td>
+<td>24</td>
+<td>Nữ</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN31</td>
+<td>49</td>
+<td>Nam</td>
+<td>Quảng Nam</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN30</td>
+<td>66</td>
+<td>Nữ</td>
+<td>Thừa Thiên Huế</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN29</td>
+<td>58</td>
+<td>Nam</td>
+<td>Đà Nẵng</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN28</td>
+<td>74</td>
+<td>Nam</td>
+<td>Đà Nẵng</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN27</td>
+<td>67</td>
+<td>Nam</td>
+<td>Lào Cai</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN26</td>
+<td>50</td>
+<td>Nữ</td>
+<td>Lào Cai</td>
+<td>Khỏi</td>
+<td>Ai-xơ-len</td>
+</tr>
+<tr>
+<td>BN25</td>
+<td>70</td>
+<td>Nữ</td>
+<td>Quảng Ninh</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN24</td>
+<td>69</td>
+<td>Nam</td>
+<td>Quảng Ninh</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN23</td>
+<td>66</td>
+<td>Nam</td>
+<td>Quảng Ninh</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN22</td>
+<td>60</td>
+<td>Nam</td>
+<td>Quảng Ninh</td>
+<td>Khỏi</td>
+<td>Vương quốc Anh</td>
+</tr>
+<tr>
+<td>BN21</td>
+<td>61</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN20</td>
+<td>64</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Đang điều trị</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN19</td>
+<td>28</td>
+<td>Nam</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN18</td>
+<td>27</td>
+<td>Nam</td>
+<td>Ninh Bình</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN17</td>
+<td>26</td>
+<td>Nữ</td>
+<td>Hà Nội</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN16</td>
+<td>50</td>
+<td>Nam</td>
+<td>Vĩnh Phúc</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN15</td>
+<td>0</td>
+<td>Nam</td>
+<td>Vĩnh Phúc</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN14</td>
+<td>55</td>
+<td>Nữ</td>
+<td>Vĩnh Phúc</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN13</td>
+<td>29</td>
+<td>Nữ</td>
+<td>Vĩnh Phúc</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN12</td>
+<td>16</td>
+<td>Nữ</td>
+<td>Vĩnh Phúc</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN11</td>
+<td>49</td>
+<td>Nữ</td>
+<td>Vĩnh Phúc</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN10</td>
+<td>42</td>
+<td>Nữ</td>
+<td>Vĩnh Phúc</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN9</td>
+<td>30</td>
+<td>Nam</td>
+<td>Vĩnh Phúc</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN8</td>
+<td>29</td>
+<td>Nữ</td>
+<td>Vĩnh Phúc</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN7</td>
+<td>73</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Hoa Kỳ</td>
+</tr>
+<tr>
+<td>BN6</td>
+<td>25</td>
+<td>Nữ</td>
+<td>Khánh Hòa</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN5</td>
+<td>23</td>
+<td>Nữ</td>
+<td>Vĩnh Phúc</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN4</td>
+<td>29</td>
+<td>Nam</td>
+<td>Vĩnh Phúc</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN3</td>
+<td>25</td>
+<td>Nữ</td>
+<td>Thanh Hóa</td>
+<td>Khỏi</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>BN2</td>
+<td>28</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Trung Quốc</td>
+</tr>
+<tr>
+<td>BN1</td>
+<td>66</td>
+<td>Nam</td>
+<td>Hồ Chí Minh</td>
+<td>Khỏi</td>
+<td>Trung Quốc</td>
+</tr>
+</tbody>
+</table>

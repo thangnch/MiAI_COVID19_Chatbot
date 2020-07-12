@@ -1,0 +1,67 @@
+intents:
+  - greet
+  - goodbye
+  - bot_challenge
+  - ask_hotline
+  - ask_covid_info
+  - ask_journey
+  - ask_symptom
+  - ask_numbers
+  - ask_declare
+  - ask_washhand
+  - ask_wearmask
+  - ask_recommend
+  - sad
+  - ask_number_domestic
+  - ask_number_inter
+  - ask_cachly
+  - ask_news
+  - getid
+  - reg_notify
+  - cancel_notify
+  - selfcare
+  - ask_patient
+
+responses:
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_goodbye:
+  - text: "Chào tạm biệt! Chúc bạn luôn mạnh khỏe nhé.\nTrợ lý ảo được thiết kế và vận hành bởi Mì AI Blog (https://miai.vn)"
+
+  utter_iamabot:
+  - text: "Tôi là trợ lý ảo về COVID-19. Tôi không bị nhiễm COVID-19. Tôi được thiết kế và vận hành bởi Mì AI Blog (https://miai.vn)."
+
+session_config:
+  session_expiration_time: 0
+  carry_over_slots_to_new_session: true
+
+actions:
+  - utter_greet
+  - utter_iamabot
+  - utter_goodbye
+  - act_hotline
+  - act_covid_info
+  - act_symptom
+  - act_journey
+  - act_journey_1
+  - act_numbers
+  - act_numbers_1
+  - act_declare
+  - act_greeting
+  - act_unknown
+  - act_needmore
+  - act_washhand
+  - act_wearmask
+  - act_recommend
+  - act_sad
+  - act_number_domestic
+  - act_number_inter
+  - act_cachly
+  - act_news
+  - action_tell_id
+  - action_tell_id_1
+  - act_reg_notify
+  - act_cancel_notify
+  - act_selfcare
+  - act_patient
