@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  </script>
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>Chia sẻ người thân</title>
+  <style>
+    body {
+      background-color: rgb(235, 235, 235);
+    }
+
+    .last_message {
+      color: black;
+      padding: 10px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .content_area {
+      background-color: white;
+      padding-bottom: 20px;
+
+    }
+
+    .header {
+      border-radius: 10px 10px 0px 0px;
+      background-color: seagreen;
+      color: white;
+      padding: 10px;
+      margin-top: 10px;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+      font-size: large;
+    }
+
+    .counter {
+      background-color: white;
+      color: black;
+      padding: 10px;
+      text-align: center;
+    }
+
+    .question {
+
+      color: black;
+      padding: 10px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+    }
+
+    .control {
+      color: black;
+      padding: 10px;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .inline {
+      display: inline-block;
+    }
+
+    .mark {
+      background-color: red;
+      width: 5px;
+      height: 30px;
+    }
+
+    .text {
+      text-align: center;
+    }
+
+    .radiobox {
+      padding: 0px 10px;
+    }
+
+    .cancelbtn {
+      text-transform: uppercase;
+      background-color: lightgray;
+      color: gray;
+      border: 0px;
+      padding: 8px 20px;
+      border-radius: 8px;
+    }
+
+    .nextbtn {
+      text-transform: uppercase;
+      background-color: seagreen;
+      color: white;
+      border: 0px;
+      padding: 8px 20px;
+      border-radius: 8px;
+    }
+
+    .shadow {
+      box-shadow: 5px 10px #888888;
+      border-radius: 10px;
+    }
+
+    .combobox {
+      margin-left: 10px;
+    }
+
+    .label {
+      margin-top: 10px;
+      margin-left: 10px;
+    }
+
+    .control_last {
+      color: black;
+      padding: 10px;
+      text-align: center;
+    }
+
+    .icon {
+      max-width: 100%;
+    }
+
+    .icon-wrapper {
+      text-align: center;
+    }
+  
+div.g-recaptcha {
+  margin: 0 auto;
+  width: 304px;
+}
+
+  </style>
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="shadow">
+      <div class="header">
+        CHIA SẺ LIÊN KẾT
+      </div>
+      <div class="content_area" v-bind:style="checkdisplay(6)" id="q6">
+        <div class="icon-wrapper">
+          <img class="icon" src="dist/icon.jpg" />
+        </div>
+        <div class="last_message">Bạn vui lòng tick và I'm not a robot và sau đó bấm nút ĐI TỚI LIÊN KẾT để tiếp tục</div>
+      </div>
+      <div class="control_last">
+        <div class="g-recaptcha" data-sitekey="6Le8bOQUAAAAABJTBPubddpPWSs87HeFNWhWsDpD" data-callback="correctCaptcha"></div>
+        <div class="col-xs-6 inline">
+          <button class="nextbtn" id="button" disabled>ĐI TỚI LIÊN KẾT</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <script src="https://www.google.com/recaptcha/api.js"></script>
+  <script>
+    const button = document.querySelector('button');
+    go = encodeURI(getUrlVars()["go"]);
+    try
+    {
+      isgo = encodeURI(getUrlVars()["isgo"]);
+    }
+    catch
+    {
+      isgo=null;
+    }
+    
+    alert(isgo);
+    if (isgo==null)
+    {
+
+      window.location.href="?go" + go + "&isgo=1";
+      return;
+    }
+
+
+  var correctCaptcha = function(response) {
+        //alert(response);
+        //alert('PC');
+        button.disabled = false;
+    button.addEventListener('click', async () => {
+      try {
+        window.location.href =  getUrlVars()["go"];
+        //await navigator.share(toShare); // Will trigger the native "share" feature
+        button.textContent = 'GO!';
+      }
+      catch (err) {
+        button.textContent = 'OHH! KHÔNG CHIA SẺ ĐƯỢC RỒI!';
+        console.log(err);
+      }
+    });
+    };
+
+    function getUrlVars() {
+      var vars = {};
+      var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+        vars[key] = value;
+      });
+      return vars;
+    }
+
+
+    
+
+
+    
+
+
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,251 @@
+AD,An-đô-ra
+AE,Các Tiểu Vương quốc Ả Rập Thống nhất
+AF,Cộng hòa Hồi giáo Afghanistan
+AG,An-ti-goa và Bác-bu-đa
+AI,Anguilla
+AL,An-ba-ni
+AM,Ác-mê-ni-a
+AN,Antille thuộc Hà Lan
+AO,Ăng-gô-la
+AQ,Nam cực
+AR,Ác-hen-ti-na
+AS,Samoa thuộc Mỹ
+AT,Áo
+AU,Úc
+AW,Aruba
+AX,And Islands
+AZ,A-déc-bai-gian
+BA,Bosnia và herzegovina
+BB,Bác-ba-đốt
+BD,Băng-la-đét
+BE,Bỉ
+BF,Buốc-ki-na Pha-xô
+BG,Bun-ga-ri
+BH,Vương quốc Ba-ranh
+BI,Cộng hòa Bu-run-đi
+BIH,Bosna và Hercegovina
+BJ,Bê-nanh
+BLM,Saint-Barthélemy
+BM,Quần đảo Bermuda
+BN,Nhà nước Brunei Darussalam
+BO,Bô-li-vi-a
+BR,Bra-xin
+BS,Ba-ha-mát
+BT,Bu-tan
+BV,Đảo Bouvet
+BW,Bốt-xoa-na
+BY,Bê-la-rút
+BZ,Bê-li-xê
+CA,Canada
+CC,Tiểu bang và vùng lãnh thổ Úc
+CD,Cộng hòa Dân chủ Công-gô
+CF,Cộng hòa Trung Phi
+CG,Công-gô
+CH,Thụy Sĩ
+CI,Bờ Biển Ngà
+CK,Quần đảo Cook
+CL,Chi-lê
+CM,Cộng hòa Cameroon
+CN,Trung Quốc
+CO,Cộng hòa Cô-lôm-bi-a
+CR,Cộng hoà Costa Rica
+CS,Serbia và Montenegro
+CU,Cu Ba
+CUW,Curaçao
+CV,Cáp Ve
+CX,Đảo Christmas
+CY,Cộng hòa Síp
+CZ,Cộng hòa Séc
+DE,Đức
+DJ,Ả Rập
+DK,Đan Mạch
+DM,Thịnh vượng chung Dominica
+DO,Cộng hòa Đô-mi-ni-ca-na
+DZ,An-giê-ri
+EC,Cộng hòa Ê-cu-a-đo
+EE,E-xtô-ni-a
+EG,Ai Cập
+EH,Tây Sahara
+ER,Ê-ri-tơ-rê-a
+ES,Tây Ban Nha
+ET,Ê-ti-ô-pi-a
+FI,Phần Lan
+FJ,Cộng hòa Quần đảo Phi-gi
+FK,Quần đảo Falkland
+FM,Liên bang Micronesia
+FO,Quần đảo Faroe
+FR,Pháp
+GA,Cộng hòa Ga-bông
+GB,Vương quốc Anh
+GD,Grê-na-đa
+GE,Georgia, Hoa Kỳ
+GF,Guyane thuộc Pháp
+GGY,Địa hạt Guernsey
+GH,Ga-na
+GI,Gibraltar
+GL,Greenland
+GM,Cộng hòa Găm-bi-a
+GN,Cộng hòa Ghi-nê
+GP,Goa-đê-lốp
+GQ,Ghi-nê Xích Đạo
+GR,Hy Lạp
+GS,Nam Georgia và Quần đảo Nam Sandwich
+GT,Cộng hoà Guatemala
+GU,Lãnh thổ Guam
+GW,Ghi-nê Bít-xao
+GY,Guy-a-na
+HK,Hồng Kông
+HM,Đảo Heard và quần đảo McDonald
+HN,Cộng hoà Honduras
+HR,Crô-a-ti-a
+HT,Cộng hòa Ha-i-ti
+HU,Hung-ga-ri
+ID,In-đô-nê-xi-a
+IE,Ai-len
+IL,Israel
+IMN,Đảo Man
+IN,Ấn Độ
+IO,Lãnh thổ Ấn Độ Dương
+IQ,Iraq
+IR,Iran
+IS,Ai-xơ-len
+IT,Italia
+JEY,Jersey
+JM,Gia-mai-ca
+JO,Gioóc-đa-ni
+JP,Nhật
+KE,Cộng hòa Kenya
+KG,Cư-rơ-gư-dơ-xtan
+KH,Campuchia
+KI,Cộng hòa Kiribati
+KM,Cô-mo
+KN,Liên bang Saint Kitts và Nevis 
+KP,Cộng hòa Dân chủ Nhân dân Triều Tiên
+KR,Hàn Quốc
+KW,Cô-oét
+KY,Quần đảo Cayman
+KZ,Ca-dắc-xtan
+LA,Lào
+LB,Li-băng
+LC,Saint Lucia
+LI,Thân vương quốc Liechtenstein
+LK,Sri Lanka
+LR,Cộng hòa Liberia
+LS,Vương quốc Lesotho
+LT,Lít-va
+LU,Lúc-xăm-bua
+LV,Lát-vi-a
+LY,Li-bi
+MA,Vương quốc Maroc
+MAF,Saint Martin (French part)
+MC,Công quốc Monaco
+MD,Moldova
+MG,Cộng hòa Madagascar
+MH,Quần đảo Marshall
+MK,Cộng hòa Macedonia
+ML,Cộng hòa Mali
+MM,Mi-an-ma
+MN,Mông Cổ
+MNE,Cộng hòa Montenegro
+MO,Ma Cao
+MP,Quần đảo Bắc Mariana
+MQ,Martinique
+MR,Mô-ri-ta-ni
+MS,Montserrat
+MT,Cộng hòa Malta
+MU,Mô-ri-xơ
+MV,Man-đi-vơ
+MW,Ma-la-uy
+MX,Mê-xi-cô
+MY,Malaysia
+MZ,Cộng hòa Mozambique
+NA,Cộng hòa Namibia
+NC,Kanaky và Le caillou
+NE,Cộng hoà Niger
+NF,Đảo Norfolk
+NG,Cộng hòa Liên bang Nigeria
+NI,Nicaragua
+NL,Hà Lan
+NO,Na Uy
+NP,Nê-pan
+NR,Cộng hòa Nauru
+NU,Niue
+NZ,Niu Di-lân
+OM,Ô-man
+PA,Cộng hòa Panama
+PE,Cộng hòa Peru
+PF,Polynesia thuộc Pháp
+PG,Pa-pu-a Niu Ghi-nê
+PH,Philippines
+PK,Pa-ki-xtan
+PL,Ba Lan
+PM,Saint-Pierre và Miquelon
+PN,Quần đảo Pitcairn
+PR,Pu-éc-tô Ri-cô
+PS,Chính quyền Quốc gia Palestine
+PT,Bồ Đào Nha
+PW,Cộng hòa Palau
+PY,Cộng hòa Paraguay
+QA,Ca-ta
+QTALL,Thế giới
+RE,Đảo Réunion
+RO,Rumani
+RU,Nga
+RW,Cộng hòa Ru-an-đa
+SA,Ả-rập Xê-út
+SB,Quần đảo Solomon
+SC,Xây-sen
+SD,Xu-đăng
+SE,Thụy Điển
+SG,Singapore 
+SH,Xanh hê-li-na
+SI,Cộng hòa Slovenia
+SJ,Svalbard và Jan Mayen
+SK,Cộng hoà Slovak
+SL,Xi-ê-ra Lê-ôn
+SM,Cộng hòa Đại bình yên San Marino
+SN,Cộng hoà Sénégal
+SO,Cộng hoà Liên bang Somalia
+SR,Xu-ri-nam
+SSD,South Sudan
+ST,Cộng hòa Dân chủ São Tomé và Príncipe
+SV,Cộng hòa En Xan-va-đo
+SXM,Sint Maarten (Dutch part)
+SY,Syria
+SZ,Xoa-di-len
+TC,Quần đảo Turks và Caicos
+TD,Sát
+TF,Vùng đất phía nam thuộc Pháp
+TG,Cộng hòa Togo
+TH,Thái Lan
+TJ,Ta-gi-ki-xtan
+TK,Tokelau
+TL,Đông Ti-mo
+TM,Tuốc-mê-ni-xtan
+TN,Tunisia
+TO,Tonga
+TR,Turkey
+TT,Trinidad và Tobago
+TV,Tuvalu
+TW,Đài Loan
+TZ,Tanzania
+UA,Ukraina
+UG,Cộng hòa Uganda
+UM,Các tiểu đảo xa của Hoa Kỳ
+US,Hoa Kỳ
+UY,Uruguay
+UZ,U-dơ-bê-ki-xtan
+VA,Thành Quốc Vatican
+VC,Saint Vincent và Grenadines
+VE,Cộng hòa Bolivar Venezuela
+VG,Quần đảo Virgin thuộc Anh
+VI,Quần đảo Virgin thuộc Mỹ
+VU,Cộng hòa Vanuatu
+WF,Wallis và Futuna
+WS,Nhà nước Độc lập Samoa
+YE,Y-ê-men
+YT,Tỉnh Mayotte
+ZA,Cộng hòa Nam Phi
+ZM,Zambia 
+ZW,Cộng hòa Zimbabwe
+VIE,Việt Nam

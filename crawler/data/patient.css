@@ -1,0 +1,26 @@
+<style>
+	.max
+	{
+		max-height: 100vh !important;
+	}
+	table
+	{
+		font-size: 14px;
+		table-layout: fixed;
+ 		width: 100%;
+ 		font-family: Arial, Helvetica, sans-serif;
+	}
+	td
+	{
+		padding-top:10px;
+  		padding-bottom:10px;
+		text-align: center;
+		border-bottom: 1px solid lightgrey;
+	}
+	th 
+	{
+		padding-top:10px;
+  		padding-bottom:10px;
+		background-color: lightgrey;
+	}
+</style>
